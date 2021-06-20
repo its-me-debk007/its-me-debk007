@@ -3,12 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-debk007" /> </p>
 
-<img align="right" alt="code_n_chill" width="450" src="https://opensource.com/sites/default/files/lead-images/getting_started_with_python.png">
+<img align="right" alt="code_n_chill" width="400" src="https://opensource.com/sites/default/files/lead-images/getting_started_with_python.png">
 
 **About Me :** 
 
 - Currently a 1st yr CSE student 
+ 
 - At AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD, UTTAR PRADESH, INDIA
+
 - 📫 My email : **debashish.joy@gmail.com**
 
 
