@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Debashish Kundu :smiley:</h1>
-<h3 align="center">A passionate coder trying to get my hands dirty on open source contributions and competitive programming :wink:</h3>
+<h1 align="center">Hey there 👋, I'm Debashish 😁</h1>
+<h3 align="center">A passionate coder trying to get my hands dirty in open source contributions and competitive programming :wink:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-debk007" /> </p>
 
@@ -7,7 +7,7 @@
 
 **About Me :** 
 
-- Currently a 1st yr CSE student 
+- A fresher CSE student🙃
  
 - At AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD, UTTAR PRADESH, INDIA
 
