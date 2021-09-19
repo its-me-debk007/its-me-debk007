@@ -7,7 +7,7 @@
 
 **About Me :** 
 
-- A fresher CSE student🙃
+- A CSE Sophomore🙃
  
 - At AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD, UTTAR PRADESH, INDIA
 
