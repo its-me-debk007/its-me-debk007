@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-debk007" /> </p>
 
-<img align="right" alt="code_n_chill" width="400" src="https://opensource.com/sites/default/files/lead-images/getting_started_with_python.png">
+<img align="right" alt="code_n_chill" width="400" src="https://user-images.githubusercontent.com/81604986/172088875-eee7e47b-fd3a-4bd8-b9ee-d44c9896d056.gif">
 
 **About Me :** 
 
@@ -24,5 +24,8 @@
 </p>
 
 <h3 align="left">Languages and Tools I often use:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left">  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172085980-3855b718-b3e2-4925-84c9-5ae4992728c6.png" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172086595-02006c80-2683-472f-b768-aa99837aef7a.png" alt="android studio" width="40" height="40"/> </a>
+ <a href="https://material.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172086982-1d196933-b451-434f-be23-7e48cb294e97.png" alt="material design" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
