@@ -25,7 +25,10 @@
 
 <h3 align="left">Languages and Tools I often use:</h3>
 <p align="left">  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172085980-3855b718-b3e2-4925-84c9-5ae4992728c6.png" alt="kotlin" width="43" height="43"/> </a>&nbsp;
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172086595-02006c80-2683-472f-b768-aa99837aef7a.png" alt="android studio" width="45" height="45"/> </a>&nbsp;
- <a href="https://material.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172086982-1d196933-b451-434f-be23-7e48cb294e97.png" alt="material design" width="45" height="45"/> </a>&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172089920-4fc683d9-fdf7-4197-a5a6-6ada5ad07d0a.png" alt="cpp" width="45" height="45"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/192124986-61d32b7b-ed37-41be-8b19-28803e994ef2.svg" alt="android studio" width="45" height="45"/> </a>&nbsp;
+<a href="https://developer.android.com/jetpack/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/192124883-56b067ba-9176-4d7c-adad-b37de17249e2.png" alt="android jetpack" width="45" height="45"/> </a>&nbsp;
+<a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/192124824-b269cf71-7d13-4551-b706-1778c48efc1c.png" alt="jetpack compose" width="45" height="45"/> </a>&nbsp;
+<a href="https://material.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/172086982-1d196933-b451-434f-be23-7e48cb294e97.png" alt="material design" width="45" height="45"/> </a>&nbsp;
+<a href="https://go.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/81604986/192124686-fe9eb6b4-5beb-4b85-947e-176b71a5bec6.svg" alt="golang" width="45" height="45"/> </a>&nbsp;
+  
 
