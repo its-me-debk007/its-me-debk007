@@ -9,7 +9,7 @@
 𝘿𝙚𝙗𝙖𝙨𝙝𝙞𝙨𝙝 𝙆𝙪𝙣𝙙𝙪
 ```
 
-<h3 align="center">Just an average programmer who turns code into creativity 😄</h3>
+<h3 align="center">Just an average programmer, turning code into creativity 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Visitors&color=3DDC84&style=for-the-badge" alt="its-me-debk007" /> </p>
 
