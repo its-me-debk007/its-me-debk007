@@ -1,6 +1,7 @@
-![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
+![Github_header](https://user-images.githubusercontent.com/81604986/213863847-ffd15a60-7466-4aa5-acb3-b3a8c82478a5.png)
 
-<h1 align="center">Hey! Thanx for visiting my profile 🙃</h1>
+
+<h1 align="center">Hey! Thanx for visiting my profile 😃</h1>
 
 ```bash
 ┌──()-[~]
@@ -49,8 +50,11 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
  
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-debk007&show_icons=true&theme=radical&layout=compact&langs_count=4&border_radius=16" alt="its-me-debk007" /> &nbsp; &nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-debk007&theme=radical&border_radius=16" alt="its-me-debk007" /> &nbsp; &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-debk007&show_icons=true&theme=radical&layout=compact&langs_count=4&border_radius=16" alt="its-me-debk007" />
+</p>
+ 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-debk007&theme=radical&border_radius=16" alt="its-me-debk007" />
 </p>
 
 <p align="center">
