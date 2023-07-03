@@ -47,7 +47,7 @@
 <a href="mailto:debashish.joy@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="debashish_kundu" width="81"/></a>
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
  
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-debk007&show_icons=true&theme=radical&layout=compact&langs_count=4&border_radius=16" alt="its-me-debk007" />
