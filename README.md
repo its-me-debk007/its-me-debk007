@@ -7,20 +7,24 @@ println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 
 ```
 
-<h3 align="center">"Code by day, debug by night, caffeine in hand, living with the byte! 😎"</h3>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Visitors&color=B125EA&style=for-the-badge" alt="its-me-debk007" /> 
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Visitors&color=B125EA&style=for-the-badge" alt="its-me-debk007" /> </p>
+[![Linkedin](https://img.shields.io/badge/Linkedin-debk007-brightgreen?logo=linkedin&style=social)](https://linkedin.com/in/debk007)
+
+[![Gmail](https://img.shields.io/badge/Gmail-debashish.joy@gmail.com-brightgreen?logo=gmail&style=social)](mailto:debashish.joy@gmail.com)
 
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400">
 
 ## <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me :** 
 
-- **Android App** + **Golang Backend** dev
-- Loves Using GNU/Linux
-- Currently using ***Fedora (KDE Plasma)***
-- Final year student
-- At AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD, UTTAR PRADESH, INDIA
-- 👨‍💻 View all my projects at <a href="https://github.com/its-me-debk007?tab=repositories"> <img align="center" src="https://user-images.githubusercontent.com/81604986/213557273-dcc14a20-c100-461e-b736-f9cb66340937.svg" alt="its-me-debk007" height="30" width="40" /></a>
+- **Native Android** + **Backend**
+- Loves ***GNU/Linux***
+- Current Distro: `Fedora`
+- Favourite DE: `KDE Plasma`
+- Final year B.Tech student
+- **FUN FACT: I do know how to exit vim 😎**
 
 ## <img align="center" src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools :**
 
@@ -36,13 +40,6 @@ println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 <code> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </code>
 <code> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> </code>
 <code> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </code>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
-
-<p>
-<a href="https://linkedin.com/in/debk007" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="debk007" width="104"/></a> &nbsp;
-<a href="mailto:debashish.joy@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="debashish_kundu" width="81"/></a>
-</p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
 
