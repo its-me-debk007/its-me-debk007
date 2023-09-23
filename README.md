@@ -1,13 +1,13 @@
-![Cover image](https://user-images.githubusercontent.com/81604986/213863847-ffd15a60-7466-4aa5-acb3-b3a8c82478a5.png)
+![Screenshot](https://github.com/its-me-debk007/its-me-debk007/assets/81604986/8359273c-b075-4d69-8b4d-e09aa7725d6b)
 
-<h1 align="center">Welcome to my coding playground 👨🏻‍💻</h1>
+<h1 align="center">Welcome to my coding playground 👨‍💻</h1>
 
 ```kotlin
 println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 
 ```
 
-<h3 align="center">"Code by day, debug by night, caffeine in hand – living the byte life! 😎"</h3>
+<h3 align="center">"Code by day, debug by night, caffeine in hand, living with the byte! 😎"</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Visitors&color=B125EA&style=for-the-badge" alt="its-me-debk007" /> </p>
 
@@ -16,7 +16,9 @@ println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 ## <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me :** 
 
 - **Android App** + **Golang Backend** dev
-- Pre-final year student
+- Loves Using GNU/Linux
+- Currently using ***Fedora (KDE Plasma)***
+- Final year student
 - At AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD, UTTAR PRADESH, INDIA
 - 👨‍💻 View all my projects at <a href="https://github.com/its-me-debk007?tab=repositories"> <img align="center" src="https://user-images.githubusercontent.com/81604986/213557273-dcc14a20-c100-461e-b736-f9cb66340937.svg" alt="its-me-debk007" height="30" width="40" /></a>
 
