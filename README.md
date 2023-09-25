@@ -45,6 +45,6 @@ println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-debk007&show_icons=true&theme=radical&layout=compact&langs_count=4&border_radius=16" alt="its-me-debk007" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-debk007&theme=radical&border_radius=16" alt="its-me-debk007" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-me-debk007&show_icons=true&theme=radical&layout=compact&langs_count=4&border_radius=16" alt="" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-debk007&theme=radical&border_radius=16" alt="" />
 <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=its-me-debk007&show_icons=true&theme=radical&count_private=true&border_radius=16">
