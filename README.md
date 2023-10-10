@@ -24,7 +24,7 @@ println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 - Current Distro: `Fedora`
 - Favourite DE: `KDE Plasma`
 - Final year B.Tech student
-- **FUN FACT: I do know how to exit vim 😎**
+- **FUN FACT : I do know how to exit vim 😎**
 
 ## <img align="center" src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools :**
 
