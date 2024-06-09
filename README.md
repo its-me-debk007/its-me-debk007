@@ -1,9 +1,9 @@
 ![Screenshot](https://github.com/its-me-debk007/its-me-debk007/assets/81604986/8359273c-b075-4d69-8b4d-e09aa7725d6b)
 
-<h1 align="center">Welcome to my coding playground 👨‍💻</h1>
+<h1 align="center">Welcome to my coding playground 🧸</h1>
 
 ```kotlin
-println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
+println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁 ")
 
 ```
 
@@ -15,7 +15,7 @@ println("Yo, Universe! 🌌 It's ya boy, Debashish in da house! 🎤✌️")
 
 [![Gmail](https://img.shields.io/badge/Gmail-debashish.joy@gmail.com-brightgreen?logo=gmail&style=social)](mailto:debashish.joy@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-brightgreen?logo=codementor&style=social)](https://drive.google.com/file/d/1OR6OZFspuuwdxuDQ4LgqypJ_4N6myeem/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-brightgreen?logo=codementor&style=social)](https://docs.google.com/document/d/1c1O2wW19IBDm_Y1zx09Jzq8VsXCqY3dLzGQ79SUoU6I/edit)
 
 <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400">
 
