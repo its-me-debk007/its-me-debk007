@@ -11,6 +11,10 @@ println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁 "
   <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Visitors&color=B125EA&style=for-the-badge" alt="its-me-debk007" /> 
 </div>
 
+<a href="https://linkedin.com/in/debk007" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-debk007-brightgreen?logo=linkedin&style=social" alt="LinkedIn">
+</a>
+
 [![Linkedin](https://img.shields.io/badge/Linkedin-debk007-brightgreen?logo=linkedin&style=social)](https://linkedin.com/in/debk007)
 
 [![Gmail](https://img.shields.io/badge/Gmail-debashish.joy@gmail.com-brightgreen?logo=gmail&style=social)](mailto:debashish.joy@gmail.com)
