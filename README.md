@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my coding playground 🧸</h1>
 
 ```kotlin
-println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁 ")
+println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁")
 
 ```
 
@@ -11,7 +11,7 @@ println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁 "
   <img src="https://komarev.com/ghpvc/?username=its-me-debk007&label=Visitors&color=B125EA&style=for-the-badge" alt="its-me-debk007" /> 
 </div>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-debk007-brightgreen?logo=linkedin&style=social)](https://linkedin.com/in/debk007)
+[![Linktree](https://img.shields.io/badge/Linktree-debk007-brightgreen?logo=linktree&style=social)](https://linktr.ee/debk007)
 
 [![Gmail](https://img.shields.io/badge/Gmail-debashish.joy@gmail.com-brightgreen?logo=gmail&style=social)](mailto:debashish.joy@gmail.com)
 
@@ -21,11 +21,10 @@ println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁 "
 
 ## <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me :** 
 
-- **Native Android** + **Flutter**
+- **Native Android** + **Flutter** + **React Native**
 - Loves ***GNU/Linux***
 - Current Distro: `Fedora`
 - Favourite DE: `XFCE`
-- Final year B.Tech student
 - **FUN FACT** : I **do** know how to exit vim 😎
 
 ## <img align="center" src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools :**
