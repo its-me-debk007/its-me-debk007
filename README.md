@@ -34,7 +34,7 @@ println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁")
   <img src="https://user-images.githubusercontent.com/81604986/172085980-3855b718-b3e2-4925-84c9-5ae4992728c6.png" alt="kotlin" width="38" height="38"/>
   <img src="https://github.com/its-me-debk007/its-me-debk007/assets/81604986/d3745b13-8461-4c28-b786-59988a5192d5" alt="java" width="38" height="38"/>
   <img src="https://user-images.githubusercontent.com/81604986/192124824-b269cf71-7d13-4551-b706-1778c48efc1c.png" alt="jetpack compose" width="38" height="38"/>
-  <img src="https://user-images.githubusercontent.com/81604986/192124883-56b067ba-9176-4d7c-adad-b37de17249e2.png" alt="android jetpack" width="38" height="38"/>
+  <img src="https://github.com/user-attachments/assets/0db5315d-7eba-4df6-8c7b-ef9718bab624" alt="react native" width="38" height="38"/>
   <img src="https://github.com/its-me-debk007/its-me-debk007/assets/81604986/8a7b6704-e015-4c7e-a4c6-a0ef32231f71" alt="flutter" width="38" height="38"/>
   <img src="https://github.com/its-me-debk007/its-me-debk007/assets/81604986/f59e877c-0744-4903-b51d-5ef01ee7a323" alt="dart" width="38" height="38"/>
   <img src="https://user-images.githubusercontent.com/81604986/192124986-61d32b7b-ed37-41be-8b19-28803e994ef2.svg" alt="android studio" width="38" height="38"/>
