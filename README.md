@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my coding playground 🧸</h1>
 
 ```kotlin
-println("Order from Swiggy📱 -> Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁")
+println("Eat🍔 -> Code👨🏻‍💻 -> Repeat🔁")
 ```
 
 <div align="center"> 
